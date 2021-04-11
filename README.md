@@ -5,3 +5,4 @@
 - https://deepai.org/machine-learning-model/colorizer - Image colourization API
 - https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/DarkPoster-lowres.png - Google Cloud developer cheat sheet
 - https://blockchaindemo.io/ - Web based blockchain demo tool
+- https://screenshot.guru/ - Takes screenshots for you online
