@@ -7,3 +7,4 @@
 - https://blockchaindemo.io/ - Web based blockchain demo tool
 - https://screenshot.guru/ - Takes screenshots for you online
 - https://www.jsonstorage.net/ - Free public and private JSON storage behind a simple REST Api
+- https://cidr.xyz/ - AN INTERACTIVE IP ADDRESS AND CIDR RANGE VISUALIZER
