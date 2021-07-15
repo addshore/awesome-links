@@ -8,3 +8,5 @@
 - https://screenshot.guru/ - Takes screenshots for you online
 - https://www.jsonstorage.net/ - Free public and private JSON storage behind a simple REST Api
 - https://cidr.xyz/ - AN INTERACTIVE IP ADDRESS AND CIDR RANGE VISUALIZER
+- https://www.freewordcloudgenerator.com/generatewordcloud - Word cloud generator
+- https://wificard.io/ - WiFi card & QR Code generator
