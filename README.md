@@ -10,3 +10,5 @@
 - https://cidr.xyz/ - AN INTERACTIVE IP ADDRESS AND CIDR RANGE VISUALIZER
 - https://www.freewordcloudgenerator.com/generatewordcloud - Word cloud generator
 - https://wificard.io/ - WiFi card & QR Code generator
+- https://allourideas.org/ - Wuju Survey, collaboratively sorting ideas
+- http://sshtron.zachlatta.com/ - Try `ssh sshtron.zachlatta.com`
