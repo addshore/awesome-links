@@ -12,3 +12,4 @@
 - https://wificard.io/ - WiFi card & QR Code generator
 - https://allourideas.org/ - Wiki Survey, collaboratively sorting ideas
 - http://sshtron.zachlatta.com/ - Try `ssh sshtron.zachlatta.com`
+- https://sed.js.org/ - GNU sed live editor
