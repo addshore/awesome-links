@@ -15,3 +15,4 @@
 - https://sed.js.org/ - GNU sed live editor
 - https://archive.ph/ - My url is alive and I want to archive its content
 - https://crontab.guru/ - A quick and simple editor for cron schedule expressions
+- https://mholt.github.io/json-to-go/ - Instantly converts JSON into a Go type definition
