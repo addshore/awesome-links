@@ -19,3 +19,4 @@
 - https://dstein64.github.io/gifcast/ - asciinema file to gif in browser
 - https://jqplay.org/ - `jq` playground
 - https://asciiflow.com/#/ - Easily create ASCII diagrams online
+- https://transfer.sh/ - Easy file sharing from the command line
