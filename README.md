@@ -20,3 +20,4 @@
 - https://jqplay.org/ - `jq` playground
 - https://asciiflow.com/#/ - Easily create ASCII diagrams online
 - https://transfer.sh/ - Easy file sharing from the command line
+- https://n8n.io/ - Free & Open Extendable workflow automation
