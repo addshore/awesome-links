@@ -21,3 +21,4 @@
 - https://asciiflow.com/#/ - Easily create ASCII diagrams online
 - https://transfer.sh/ - Easy file sharing from the command line
 - https://n8n.io/ - Free & Open Extendable workflow automation
+- https://notebooksharing.space/ - The fastest way to share your notebooks
