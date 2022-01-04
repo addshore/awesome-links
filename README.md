@@ -23,3 +23,4 @@
 - https://n8n.io/ - Free & Open Extendable workflow automation
 - https://notebooksharing.space/ - The fastest way to share your notebooks
 - https://canarytokens.org/ - Quick, Free, Detection for the Masses
+- https://httpdump.app/ - Easily inspect incoming HTTP Requests
