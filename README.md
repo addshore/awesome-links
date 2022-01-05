@@ -24,3 +24,4 @@
 - https://notebooksharing.space/ - The fastest way to share your notebooks
 - https://canarytokens.org/ - Quick, Free, Detection for the Masses
 - https://httpdump.app/ - Easily inspect incoming HTTP Requests
+- https://termbin.com/ - Netcat-based command line pastebin
