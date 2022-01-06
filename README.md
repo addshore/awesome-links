@@ -25,3 +25,4 @@
 - https://canarytokens.org/ - Quick, Free, Detection for the Masses
 - https://httpdump.app/ - Easily inspect incoming HTTP Requests
 - https://termbin.com/ - Netcat-based command line pastebin
+- https://3v4l.org/ - Online PHP editor across versions
