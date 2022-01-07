@@ -26,3 +26,4 @@
 - https://httpdump.app/ - Easily inspect incoming HTTP Requests
 - https://termbin.com/ - Netcat-based command line pastebin
 - https://3v4l.org/ - Online PHP editor across versions
+- https://12ft.io/ - Show me a 10ft paywall, I’ll show you a 12ft ladder
