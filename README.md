@@ -27,3 +27,4 @@
 - https://termbin.com/ - Netcat-based command line pastebin
 - https://3v4l.org/ - Online PHP editor across versions
 - https://12ft.io/ - Show me a 10ft paywall, I’ll show you a 12ft ladder
+- https://wikidata.metaphacts.com/ - Metaphactory + Wikidata = Ontological tree exploration in diagrams
