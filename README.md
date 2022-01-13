@@ -11,7 +11,6 @@
 - https://www.freewordcloudgenerator.com/generatewordcloud - Word cloud generator
 - https://wificard.io/ - WiFi card & QR Code generator
 - https://allourideas.org/ - Wiki Survey, collaboratively sorting ideas
-- http://sshtron.zachlatta.com/ - Try `ssh sshtron.zachlatta.com`
 - https://sed.js.org/ - GNU sed live editor
 - https://archive.ph/ - My url is alive and I want to archive its content
 - https://crontab.guru/ - A quick and simple editor for cron schedule expressions
@@ -28,3 +27,7 @@
 - https://3v4l.org/ - Online PHP editor across versions
 - https://12ft.io/ - Show me a 10ft paywall, I’ll show you a 12ft ladder
 - https://wikidata.metaphacts.com/ - Metaphactory + Wikidata = Ontological tree exploration in diagrams
+
+## Games
+- https://looptap.vasanthv.com/ - A minimal game to waste your time (circle & space bar)
+- http://sshtron.zachlatta.com/ - Try `ssh sshtron.zachlatta.com`
