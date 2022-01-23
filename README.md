@@ -16,6 +16,7 @@
 - https://archive.ph/ - My url is alive and I want to archive its content
 - https://crontab.guru/ - A quick and simple editor for cron schedule expressions
 - https://mholt.github.io/json-to-go/ - Instantly converts JSON into a Go type definition
+- https://zhwt.github.io/yaml-to-go/ - Instantly converts YAML into a Go type definition
 - https://dstein64.github.io/gifcast/ - asciinema file to gif in browser
 - https://jqplay.org/ - `jq` playground
 - https://asciiflow.com/#/ - Easily create ASCII diagrams online
