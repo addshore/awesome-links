@@ -34,3 +34,8 @@
 ## Games
 - https://looptap.vasanthv.com/ - A minimal game to waste your time (circle & space bar)
 - http://sshtron.zachlatta.com/ - Try `ssh sshtron.zachlatta.com`
+
+## Windows Tools
+
+- https://windirstat.net/ - disk usage statistics viewer and cleanup tool
+- https://getsharex.com/ - Screen capture, file sharing and productivity tool
