@@ -32,6 +32,7 @@
 - https://www.duckdns.org/domains - free dynamic DNS hosted on AWS
 - https://www.sejda.com/crop-pdf - Crop all pages of a PDF (automatic or manual)
 - https://www.dns.toys/ - Useful utilities and services over DNS (weather, conversion etc)
+- https://hackertyper.com/ - Make it look like you are hacking
 
 ## Games
 - https://looptap.vasanthv.com/ - A minimal game to waste your time (circle & space bar)
