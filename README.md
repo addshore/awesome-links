@@ -35,6 +35,7 @@
 - https://hackertyper.com/ - Make it look like you are hacking
 - https://sourcegraph.com/search - Public code search
 - https://curl2url.com/ - Link to curl results
+- https://amber-lang.com/ - The Programming Language compiled to Bash.
 
 ## Games
 - https://looptap.vasanthv.com/ - A minimal game to waste your time (circle & space bar)
