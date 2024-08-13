@@ -32,6 +32,7 @@
 - https://asciiflow.com/#/ - Easily create ASCII diagrams online
 - https://sourcegraph.com/search - Public code search
 - https://curl2url.com/ - Link to curl results
+- https://mockae.com/ - Fake APIs using Lua for dynamic response generation
 
 ### Usefull
 
@@ -53,7 +54,6 @@
 ## Games
 
 - https://raould.github.io/pn0gstr0m/ - all the pn0gs are to be str0mmed
-- https://looptap.vasanthv.com/ - A minimal game to waste your time (circle & space bar)
 - http://sshtron.zachlatta.com/ - Try `ssh sshtron.zachlatta.com`
 
 ## Windows Programs
