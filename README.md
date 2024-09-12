@@ -21,6 +21,7 @@
 - https://mockbin.io/ - Allows you to quickly mock an API endpoint
 - https://httpdump.app/ - Easily inspect incoming HTTP Requests
 - https://termbin.com/ - Netcat-based command line pastebin
+- https://bashupload.com/ - Bash based temporary file upload bin
 - https://3v4l.org/ - Online PHP editor across versions
 - https://sed.js.org/ - GNU sed live editor
 - https://awk.js.org/ - GNU awk live editor
