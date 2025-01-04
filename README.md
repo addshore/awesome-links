@@ -6,6 +6,7 @@
 - https://crontab.guru/ - A quick and simple editor for cron schedule expressions
 - https://dstein64.github.io/gifcast/ - asciinema file to gif in browser
 - https://transfer.sh/ - Easy file sharing from the command line
+- https://filebin.net/ - Convenient free file sharing on the web, without registration, for 1 week.
 - https://n8n.io/ - Free & Open Extendable workflow automation
 - https://notebooksharing.space/ - The fastest way to share your notebooks
 - https://canarytokens.org/ - Quick, Free, Detection for the Masses
@@ -62,6 +63,3 @@
 - https://windirstat.net/ - disk usage statistics viewer and cleanup tool
 - https://getsharex.com/ - Screen capture, file sharing and productivity tool
 
-## Currently Offline
-
-- https://filebin.net/ - Convenient free file sharing on the web, without registration, for 1 week. (down as of 13th of May 2024)
