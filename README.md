@@ -48,7 +48,6 @@
 
 - https://deepai.org/machine-learning-model/colorizer - Image colourization API
 - https://hackertyper.com/ - Make it look like you are hacking
-- https://th0mas.nl/downloads/pdftris.pdf - Tetris in a PDF
 
 ## Cheat sheets
 
@@ -58,6 +57,7 @@
 
 - https://raould.github.io/pn0gstr0m/ - all the pn0gs are to be str0mmed
 - http://sshtron.zachlatta.com/ - Try `ssh sshtron.zachlatta.com`
+- https://th0mas.nl/downloads/pdftris.pdf - Tetris in a PDF
 
 ## Windows Programs
 
