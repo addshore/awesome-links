@@ -48,6 +48,7 @@
 
 - https://deepai.org/machine-learning-model/colorizer - Image colourization API
 - https://hackertyper.com/ - Make it look like you are hacking
+- https://th0mas.nl/downloads/pdftris.pdf - Tetris in a PDF
 
 ## Cheat sheets
 
