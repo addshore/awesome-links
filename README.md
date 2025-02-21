@@ -2,7 +2,6 @@
 
 - https://blockchaindemo.io/ - Web based blockchain demo tool
 - https://www.jsonstorage.net/ - Free public and private JSON storage behind a simple REST API
-- https://wificard.io/ - WiFi card & QR Code generator
 - https://crontab.guru/ - A quick and simple editor for cron schedule expressions
 - https://dstein64.github.io/gifcast/ - asciinema file to gif in browser
 - https://transfer.sh/ - Easy file sharing from the command line
