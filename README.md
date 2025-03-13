@@ -14,6 +14,7 @@
 - https://www.sejda.com/crop-pdf - Crop all pages of a PDF (automatic or manual)
 - https://www.dns.toys/ - Useful utilities and services over DNS (weather, conversion etc)
 - https://flatgithub.com/ - View flatfile data from Github in a nice table
+- https://file.pizza/ - In browser P2P file sharing
 
 ## Developer Tools
 
