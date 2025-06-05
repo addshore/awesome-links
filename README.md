@@ -49,6 +49,7 @@
 
 - https://deepai.org/machine-learning-model/colorizer - Image colourization API
 - https://hackertyper.com/ - Make it look like you are hacking
+- https://github.com/hugomd/parrot.live - Curl an animated parrot into your terminal
 
 ## Cheat sheets
 
