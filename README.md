@@ -4,12 +4,12 @@
 - https://www.jsonstorage.net/ - Free public and private JSON storage behind a simple REST API
 - https://crontab.guru/ - A quick and simple editor for cron schedule expressions
 - https://dstein64.github.io/gifcast/ - asciinema file to gif in browser
-- https://transfer.sh/ - Easy file sharing from the command line
+- https://transfer.sh/ - Easy file sharing from the command line (Sometimes doesnt load...)
 - https://filebin.net/ - Convenient free file sharing on the web, without registration, for 1 week.
 - https://n8n.io/ - Free & Open Extendable workflow automation
 - https://notebooksharing.space/ - The fastest way to share your notebooks
 - https://canarytokens.org/ - Quick, Free, Detection for the Masses
-- https://12ft.io/ - Show me a 10ft paywall, I’ll show you a 12ft ladder
+- https://12ft.io/ - Show me a 10ft paywall, I’ll show you a 12ft ladder (Sometimes doesnt load...)
 - https://www.duckdns.org/domains - free dynamic DNS hosted on AWS
 - https://www.sejda.com/crop-pdf - Crop all pages of a PDF (automatic or manual)
 - https://www.dns.toys/ - Useful utilities and services over DNS (weather, conversion etc)
