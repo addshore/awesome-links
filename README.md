@@ -16,6 +16,10 @@
 - https://flatgithub.com/ - View flatfile data from Github in a nice table
 - https://file.pizza/ - In browser P2P file sharing
 
+## Life
+
+- https://make-everything-ok.com/
+
 ## Developer Tools
 
 ### Developer
