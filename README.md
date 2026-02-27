@@ -4,7 +4,6 @@
 - https://www.jsonstorage.net/ - Free public and private JSON storage behind a simple REST API
 - https://crontab.guru/ - A quick and simple editor for cron schedule expressions
 - https://dstein64.github.io/gifcast/ - asciinema file to gif in browser
-- https://transfer.sh/ - Easy file sharing from the command line (Sometimes doesnt load...)
 - https://filebin.net/ - Convenient free file sharing on the web, without registration, for 1 week.
 - https://n8n.io/ - Free & Open Extendable workflow automation
 - https://notebooksharing.space/ - The fastest way to share your notebooks
