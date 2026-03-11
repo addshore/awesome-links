@@ -19,6 +19,9 @@
 
 - https://make-everything-ok.com/
 
+## AI
+- https://whatmodelscanirun.com/ - Pick the right model for your GPU — in seconds
+
 ## Developer Tools
 
 ### Developer
