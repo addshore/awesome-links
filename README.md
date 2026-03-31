@@ -42,6 +42,7 @@
 - https://sourcegraph.com/search - Public code search
 - https://curl2url.com/ - Link to curl results
 - https://mockae.com/ - Fake APIs using Lua for dynamic response generation
+- https://github-ratelimit-monitor.addshore.com/ - View and graph your GitHub API rate limits
 
 ### Usefull
 
