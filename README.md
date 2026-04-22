@@ -1,5 +1,7 @@
 # awesome-links
 
+Some links that I have slowly been gathering and often refer to...
+
 - https://blockchaindemo.io/ - Web based blockchain demo tool
 - https://www.jsonstorage.net/ - Free public and private JSON storage behind a simple REST API
 - https://crontab.guru/ - A quick and simple editor for cron schedule expressions
