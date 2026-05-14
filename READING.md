@@ -4,6 +4,7 @@ A collection of links to content I have enjoyed reading, and you might too.
 
 ## 2026
 
+* [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
 * [Drunk Post: Things I’ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
 * [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid)
 * [I Improved 15 LLMs at Coding in One Afternoon. Only the Harness Changed.](https://blog.can.ac/2026/02/12/the-harness-problem/)
