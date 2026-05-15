@@ -59,6 +59,7 @@ Some links that I have slowly been gathering and often refer to...
 - https://deepai.org/machine-learning-model/colorizer - Image colourization API
 - https://hackertyper.com/ - Make it look like you are hacking
 - https://github.com/hugomd/parrot.live - Curl an animated parrot into your terminal
+- https://explorer.samismith.com/ - Explore Wikipedia like you are in Windows XP
 
 ## Cheat sheets
 
