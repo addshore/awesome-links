@@ -1,3 +1,4 @@
 - https://naivelogic.co.uk/ https://naivelogic.co.uk/feed/
 - https://musings.martyn.berlin/ https://musings.martyn.berlin/feed/
 - https://www.citationneeded.news/ https://www.citationneeded.news/rss/
+- https://human-in-the-loop.bearblog.dev/blog/ https://human-in-the-loop.bearblog.dev/feed/?type=rss
