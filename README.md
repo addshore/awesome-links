@@ -45,6 +45,8 @@ Some links that I have slowly been gathering and often refer to...
 - https://curl2url.com/ - Link to curl results
 - https://mockae.com/ - Fake APIs using Lua for dynamic response generation
 - https://github-ratelimit-monitor.addshore.com/ - View and graph your GitHub API rate limits
+- https://binvis.io/ - visual analysis of binary files
+- https://hexed.it/ - Online hex editor
 
 ### Usefull
 
