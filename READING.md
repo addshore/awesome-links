@@ -4,6 +4,7 @@ A collection of links to content I have enjoyed reading, and you might too.
 
 ## 2026
 
+* [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
 * [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
 * [Drunk Post: Things I’ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
 * [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid)
