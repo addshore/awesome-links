@@ -4,6 +4,7 @@ A collection of links to content I have enjoyed reading, and you might too.
 
 ## 2026
 
+* [AI Is a Tool. Using It Well Takes Skill.](https://yyhh.org/blog/2026/10/ai-is-a-tool/) <kbd>#ai</kbd>
 * [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
 * [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
 * [Drunk Post: Things I’ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
