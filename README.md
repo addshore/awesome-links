@@ -73,6 +73,7 @@ Some links that I have slowly been gathering and often refer to...
 - http://sshtron.zachlatta.com/ - Try `ssh sshtron.zachlatta.com`
 - https://th0mas.nl/downloads/pdftris.pdf - Tetris in a PDF
 - https://airport.apunen.com/ - Airport simulator
+- https://scanchess.com/ - Turn chess board photos into FEN and scoresheets into PGN
 
 ## Windows Programs
 
