@@ -4,6 +4,7 @@ A collection of links to content I have enjoyed reading, and you might too.
 
 ## 2026
 
+* [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/) <kbd>#ai</kbd>
 * [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) <kbd>#ai</kbd>
 * [AI Is a Tool. Using It Well Takes Skill.](https://yyhh.org/blog/2026/10/ai-is-a-tool/) <kbd>#ai</kbd>
 * [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
