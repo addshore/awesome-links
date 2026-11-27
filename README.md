@@ -62,6 +62,7 @@ Some links that I have slowly been gathering and often refer to...
 - https://hackertyper.com/ - Make it look like you are hacking
 - https://github.com/hugomd/parrot.live - Curl an animated parrot into your terminal
 - https://explorer.samismith.com/ - Explore Wikipedia like you are in Windows XP
+- https://stagepeek.live/ - Interactive 2D seating maps and 3D concert seat-view simulator across 201 global venues
 
 ## Cheat sheets
 
